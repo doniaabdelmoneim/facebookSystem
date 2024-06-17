@@ -17,7 +17,7 @@ app.use(express.json())
 sequelize.sync({alter:false,drop:false}) 
 
 //Routing
-app.user(cors())
+app.use(cors())
 app.use("/user",userRouter)
 app.use("/post",postRouter)
 app.use("/comment",commentRouter)
