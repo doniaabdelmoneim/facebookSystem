@@ -17,11 +17,11 @@ simple Facebook application to handle users, posts, and comments.
 
 ### Installation:
 
-Clone the repository: git clone https://github.com/your-username/facebook-app.git
-Install dependencies: npm install
-Create a database and update the config.json file with your database credentials
-Run the migrations: npx sequelize db:migrate
-Start the server: npm start
+- Clone the repository: git clone https://github.com/your-username/facebook-app.git
+- Install dependencies: npm install
+- Create a database and update the config.json file with your database credentials
+- Run the migrations: npx sequelize db:migrate
+- Start the server: npm start
 
 ## Technologies Used
 * Node.js
