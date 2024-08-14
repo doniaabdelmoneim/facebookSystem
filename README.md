@@ -24,10 +24,10 @@ Run the migrations: npx sequelize db:migrate
 Start the server: npm start
 
 ## Technologies Used
-*Node.js
-*Express.js
-*Sequelize
-*bcrypt.js
+* Node.js
+* Express.js
+* Sequelize
+* bcrypt.js
 
 *** API Documentation ***
 
